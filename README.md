@@ -31,7 +31,7 @@ Peak RAM: ~650-800 MB — well under the 2GB budget.
 ---
 
 ## Download the Apk file:
-- **<a href="https://github.com/vinaytz/ProjectCharlie/releases/tag/app">Click Here</a>**
+- **<a href="https://github.com/VARUN-MERCURY/ProjectCharlie/releases/tag/app">Click Here</a>**
 
   OR
 
@@ -47,7 +47,7 @@ Peak RAM: ~650-800 MB — well under the 2GB budget.
 ### 1. Clone & Setup
 
 ```bash
-cd "/home/vinaytz/MY Project in Linux/AlphaAI"
+cd "/path/to/ProjectCharlie"
 chmod +x setup.sh
 ./setup.sh
 ```
